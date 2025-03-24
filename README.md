@@ -29,8 +29,9 @@ Ensure you have **Node.js** installed (recommended version: 16+).
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/epicshivam/darkins-product-data-exporter
+   cd darkins-product-data-exporter
+
    ```
 
 2. Install dependencies:
